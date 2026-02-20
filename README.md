@@ -167,10 +167,13 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:00599C&height=150&section=footer"/>
-</p>
 
 <p align="center">
 ⭐️ <i>“Code is like humor. When you have to explain it, it’s bad.”</i>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:00599C&height=150&section=footer"/>
+</p>
+
+
