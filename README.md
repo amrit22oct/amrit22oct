@@ -38,7 +38,7 @@
 - **DevOps:** CI/CD via Git, Cloud Deployment (Vercel, Render)
 - **Workflow:** Agile Methodologies, Git-Based Collaboration
 
-🎯 **Goal:** Seeking a challenging **Full Stack / MERN Developer** role in a product-based company where I can contribute to high-impact projects.
+🎯 **Goal:** Seeking a challenging **Full Stack / MERN Stack Developer** role in a product-based company where I can contribute to high-impact projects.
 
 ---
 
