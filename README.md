@@ -144,9 +144,9 @@
 </p>
 
 ### 🐍 The Contribution Snake
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/amrit22oct/amrit22oct/output/github-contribution-grid-snake-dark.svg" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/amrit22oct/amrit22oct/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
